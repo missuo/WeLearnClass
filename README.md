@@ -9,7 +9,7 @@ Available for Linux, macOS and Windows.
 
 1. Install Python3, this script depends on Python3.
 ~~~
-yum - y install python3
+yum -y install python3
 ~~~
 2. Install Requests Environment.
 ~~~
