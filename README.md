@@ -21,5 +21,6 @@ cd WeLearnClass
 ~~~
 3. Just run the Python program.
 ~~~
-python3 WELearn
+python3 WELearnForComplete.py
+python3 WELearnForTime.py
 ~~~
