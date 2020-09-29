@@ -2,7 +2,7 @@
 WeLearn One-Click Completion
 
 # Statement
-This script Fork From AvenShy.
+This Script Fork From AvenShy.
 
 # Usage
 Available for Linux, macOS and Windows.
