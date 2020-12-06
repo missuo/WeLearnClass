@@ -202,3 +202,5 @@ https://github.com/Avenshy/WELearnToSleep
 本软件遵守GPLv3协议，且免费、开源，禁止售卖!
 **********  Created By Avenshy & SSmJaE  **********""")
 input("Press any key to exit...")
+
+                      
