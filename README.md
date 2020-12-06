@@ -9,11 +9,16 @@ Available for Linux, macOS and Windows.
 
 1. Install Python3, this script depends on Python3.
 ~~~
+Only for CentOS
 yum -y install python3
 ~~~
 2. Install Requests Environment.
 ~~~
+macOS Version
 pip3 install requests
+
+Windows Version
+pip install requests
 ~~~
 2. Change direction to the Python source file directory.
 ~~~
