@@ -164,3 +164,4 @@ for i in range(len(wrong)):
     print('第',i + 1,'个错误:',wrong[i])
 print("\n\n\n**********  Created By Avenshy  **********\n\n\n")
 input("Press any key to exit...")
+
