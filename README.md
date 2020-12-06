@@ -23,6 +23,5 @@ cd WeLearnClass
 ~~~
 python3 WELearnForComplete.py
 python3 WELearnForTime.py
-WELearnForComplete.py means that all courses of WeLearn are completed, the progress reaches 100%, and it is completed in 1 second.
-python3 WELearnForTime.py means the brushing time, after all, the one-second completion time is definitely not up to the standard.
 ~~~
+「WELearnForComplete.py」 means that all courses of WeLearn are completed, the progress reaches 100%, and it is completed in 1 second. 「WELearnForTime.py」 means the brushing time, after all, the one-second completion time is definitely not up to the standard.
